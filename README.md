@@ -1,2 +1,6 @@
 # pokemon-app
 Gestion de pokemon en Angular
+
+Cette application permet de afficher ou de modifier une liste de pokemon...
+
+A enrichir...
